@@ -9,3 +9,27 @@ function destructivelyAppendKitten(name) {
 function destructivelyPrependKitten(name) {
   
 }
+
+function destructivelyRemoveLastKitten(name) {
+  
+}
+
+function destructivelyRemoveFirstKitten(name) {
+  
+}
+
+function appendKitten(name) {
+  
+}
+
+function prependKiteen(name) {
+  
+}
+
+function removeLastKitten() {
+  
+}
+
+function removeFirstKitten() {
+  
+}
