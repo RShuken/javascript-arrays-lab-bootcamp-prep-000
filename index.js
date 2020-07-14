@@ -9,7 +9,7 @@ function destructivelyAppendKitten(name) {
 function destructivelyPrependKitten(name) {
   
 }
-
+// removes the last kitten from the kittens array:
 function destructivelyRemoveLastKitten(name) {
   
 }
