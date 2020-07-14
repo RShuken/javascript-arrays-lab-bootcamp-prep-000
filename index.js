@@ -21,11 +21,11 @@ function destructivelyRemoveFirstKitten(name) {
 function appendKitten(name) {
   
 }
-
+//
 function prependKiteen(name) {
   
 }
-//
+//removes the last kitten in the kittens array andreturns a new array, leaving the kittens array unchanged:
 function removeLastKitten() {
   
 }
