@@ -1,11 +1,11 @@
 var kittens = ["Milo", "Otis", "Garfield"]; //define your array here
 
 // Add your functions and code here
-
+//
 function destructivelyAppendKitten(name) {
   
 }
-
+// prepends a kitten to the beginningof the kittens array:
 function destructivelyPrependKitten(name) {
   
 }
