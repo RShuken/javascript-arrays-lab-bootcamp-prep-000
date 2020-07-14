@@ -6,7 +6,7 @@ function destructivelyAppendKitten(name) {
   kittens = kittens.splice(name);
   return kittens;
 }
-// prepends a kitten to the beginningof the kittens array:
+// prepends a kitten to the beginning of the kittens array:
 function destructivelyPrependKitten(name) {
   
 }
