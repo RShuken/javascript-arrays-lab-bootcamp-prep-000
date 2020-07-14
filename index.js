@@ -12,8 +12,8 @@ function destructivelyPrependKitten(name) {
   return kittens;
 }
 // removes the last kitten from the kittens array:
-function destructivelyRemoveLastKitten(name) {
-  kittens = kittens.slice(name, kittens.lenght - 1);
+function destructivelyRemoveLastKitten() {
+  kittens = kittens.slice(, kittens.lenght - 1);
   return kittens;
 }
 //removes the First kitten from the kittens array:
