@@ -3,7 +3,8 @@ var kittens = ["Milo", "Otis", "Garfield"]; //define your array here
 // Add your functions and code here
 //appends a kitten to the end of the kittens array:
 function destructivelyAppendKitten(name) {
-  kittens = kittens.
+  kittens = kittens.pop(name);
+  return kittens;
 }
 // prepends a kitten to the beginningof the kittens array:
 function destructivelyPrependKitten(name) {
